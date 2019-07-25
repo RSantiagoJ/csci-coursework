@@ -1,2 +1,2 @@
 # csci-coursework
-A collection of  coursework from courses in Java and Data Structures.
+A collection of  undergraduate computer science coursework.
